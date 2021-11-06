@@ -1,0 +1,10 @@
+body{
+    background-color: crimson;
+    text-align: center;
+}
+h1{
+    color: cyan;
+    background-color: black;
+    border: double 5px yellow;
+    border-radius: 25px;
+}
